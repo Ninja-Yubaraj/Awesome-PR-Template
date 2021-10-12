@@ -10,8 +10,12 @@ Just an Awesome Template/BoilerPlate for any kind of Pull Requests which can be 
 
 ## Feeling Lazy?
 Use Curl to download the template and use it in your project:
-```curl -O https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/master/Awsome-PR-Template.md```
+```
+curl -O https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/master/Awsome-PR-Template.md
+```
 Or maybe try using wget:
-```wget https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/master/Awsome-PR-Template.md```
+```
+wget https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/master/Awsome-PR-Template.md
+```
 ## Contributors
 See the list of [contributors](https://github.com/Ninja-Yubaraj/docker-server/graphs/contributors) who participated in this project.
