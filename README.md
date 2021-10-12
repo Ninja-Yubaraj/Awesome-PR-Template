@@ -9,4 +9,4 @@ Just an Awesome Template/BoilerPlate for any kind of Pull Requests which can be 
 - Or maybe the binary files for your coffee machine.
 
 ## Contributors
-See the list of [contributors](https://github.com/novaspirit/pi-hosted/graphs/contributors) who participated in this project.
+See the list of [contributors](https://github.com/Ninja-Yubaraj/docker-server/graphs/contributors) who participated in this project.
