@@ -8,5 +8,10 @@ Just an Awesome Template/BoilerPlate for any kind of Pull Requests which can be 
 - The source code for a giant robot which is made **\*to rule over the Earth and keep moon as a hostage.\***
 - Or maybe the binary files for your coffee machine.
 
+## Feeling Lazy?
+Use Curl to download the template and use it in your project:
+```curl -O https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/master/Awsome-PR-Template.md```
+Or maybe try using wget:
+```wget https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/master/Awsome-PR-Template.md```
 ## Contributors
 See the list of [contributors](https://github.com/Ninja-Yubaraj/docker-server/graphs/contributors) who participated in this project.
