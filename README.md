@@ -15,7 +15,7 @@ curl -O https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/mast
 ```
 Or maybe try using wget:
 ```
-wget https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/master/Awsome-PR-Template.md
+wget https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/main/Awesome-PR-Template.md
 ```
 ## Contributors
 See the list of [contributors](https://github.com/Ninja-Yubaraj/docker-server/graphs/contributors) who participated in this project.
