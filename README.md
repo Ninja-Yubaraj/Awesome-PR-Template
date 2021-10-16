@@ -18,4 +18,4 @@ Or maybe try using wget:
 wget https://raw.githubusercontent.com/Ninja-Yubaraj/Awesome-PR-Template/main/Awesome-PR-Template.md
 ```
 ## Contributors
-See the list of [contributors](graphs/contributors) who participated in this project.
+See the list of [contributors](https://github.com/Ninja-Yubaraj/Awesome-PR-Template/graphs/contributors) who participated in this project.
